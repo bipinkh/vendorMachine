@@ -1,3 +1,7 @@
+--Code Reference taken from:
+--https://thunderwiring.wordpress.com/fsm-vending-machine-in-vhdl/
+
+
 library ieee;
 use IEEE.std_logic_1164.all;
 
